@@ -10,6 +10,6 @@ public class Main {
 		Date today=new Date();
 		System.out.println(today);
 		
-		
+		System.out.println("복세편살 유야호!");
 	}
 }
